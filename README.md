@@ -1,16 +1,13 @@
-## Hi there 👋
+# 个人备忘录
 
-<!--
-**susususutie/susususutie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 仓库命名逻辑
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+待整理，后续对仓库重命名
+
+- demo-* 
+- learn-*     技术学习的配套仓库
+- *-test      快速验证（简短代码）
+- *-setup     练手、验证
+- template-*  快速开始新项目的模板
+- *-bucket    一类工具合集
